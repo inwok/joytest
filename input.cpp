@@ -159,7 +159,7 @@ enum class MesDpadButtonInfo {
 };
 
 //% color=#D400D4 weight=111 icon="\uf192"
-namespace inputOK {
+namespace inputOO {
     /**
      * Do something when a button (A, B or both A+B) is pushed down and released again.
      * @param button the button that needs to be pressed

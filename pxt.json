@@ -11,6 +11,8 @@
         "main.ts",
 	"input.cpp",
         "pxt.h",
+ 	"pxtbase.h",
+	"configkeys.h",
         "_locales/el/motor.json"
     ],
     "public": true

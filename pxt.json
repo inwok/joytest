@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-	"input.h",
+	"input.cpp",
         "pxt.h",
         "_locales/el/motor.json"
     ],

@@ -1,0 +1,17 @@
+{
+    "name": "InwO",
+    "version": "1.10.66",
+    "description": "Blocks provided by InwOkk",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+	"input.h",
+        "pxt.h",
+        "_locales/el/motor.json"
+    ],
+    "public": true
+}

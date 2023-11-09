@@ -1,17 +1,14 @@
 {
     "name": "InwO",
     "version": "1.10.66",
-    "description": "Blocks provided by InwOkk",
+    "description": "Blocks provided by InwO joy",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-	"inputcc.cpp",
-        "pxt.h",
- 	"pxtbase.h",
-	"configkeys.h",
+        "main.ts",
         "_locales/el/motor.json"
     ],
     "public": true

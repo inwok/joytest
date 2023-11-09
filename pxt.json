@@ -8,8 +8,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
-	"input.cpp",
+	"inputcc.cpp",
         "pxt.h",
  	"pxtbase.h",
 	"configkeys.h",
